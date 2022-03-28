@@ -77,6 +77,7 @@ module.exports = {
     "type": "blog",
     "blogConfig": {
       "category": {
+		 // 配置在头部的顺序
         "location": 3,
         "text": "博客"
       },
